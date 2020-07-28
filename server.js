@@ -69,4 +69,4 @@ console.log(data)
 console.log(data2)
 //start the server on port 3000
 app.listen(3000)
-app2.listen(3000)
+app2.listen(3001)
